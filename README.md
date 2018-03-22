@@ -38,6 +38,9 @@ Instagram : [@udin_gram](https://www.instagram.com/udin_gram/)
 ## Thank's to 
 
 Template by : sb-admin
+
 Framework : bootstrap
+
 Framework-icon : font-awesome
+
 plugin-table : datatables
