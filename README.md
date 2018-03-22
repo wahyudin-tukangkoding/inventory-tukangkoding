@@ -25,7 +25,7 @@ $dbname : " Database name (default : inventory) "
 
 ## License
 
-Copyright © 2018 Wahyudin Released under the MIT license - see the [LICENSE.md](LICENSE.md) file for details
+Copyright © 2018 Wahyudin Released under the MIT license - see the [LICENSE.md](LICENSE) file for details
 
 ## Credits
 
